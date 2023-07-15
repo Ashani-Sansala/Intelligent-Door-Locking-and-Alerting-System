@@ -6,10 +6,10 @@
 
 ![aa625815-398a-4ad2-aeb8-3a857ff47b13](https://github.com/Ashani-Sansala/Intelligent-Door-Locking-and-Alerting-System/assets/85635476/052d4fc8-8ea5-467d-b293-60a157853b08)
 
-##Introduction
+## Introduction
 The Security Door Locking and Alerting System is a cutting-edge hardware project developed as part of our first-year engineering program. This project aims to provide secure access control to sensitive areas, specifically tailored for a bank vault. The system combines advanced biometric authentication techniques with intelligent automation to ensure foolproof security.
 
-##Features
+## Features
 Biometric Authentication: The system utilizes both fingerprint and face recognition to authenticate authorized personnel. Access to the vault is only granted when three designated personnel (bank manager, vault officer, and security officers) are successfully authenticated.
 
 Time-Restricted Access: The system allows access to the vault only during predefined time periods. Outside of these hours, the vault door remains locked even for authorized personnel.
@@ -26,7 +26,7 @@ Machine Learning for Face Recognition: The system incorporates machine learning 
 
 Autonomous Operation: The system's intelligent design enables autonomous operation, reducing the need for manual intervention and ensuring reliability.
 
-##How it Works
+## How it Works
 Authentication Process: Authorized personnel need to undergo a two-step authentication process, involving both fingerprint and face recognition. Only when all three designated individuals are successfully authenticated, the vault door is unlocked.
 
 Time-Based Access: The system checks the current time against predefined access periods. If the current time falls within the allowed time range, the door can be unlocked upon successful authentication.
@@ -35,10 +35,10 @@ Unauthorized Entry Alert: In case of an unauthorized entry attempt, the system t
 
 Prompt Response: The system further initiates phone calls to designated personnel, ensuring swift and prompt response to any security breach.
 
-##Project Status
+## Project Status
 The Security Door Locking and Alerting System is a successfully completed first-year hardware project. We have achieved our primary objectives of creating a secure and reliable access control system using biometric authentication. The system has been demonstrated to and appreciated by our Dean, encouraging us to continue pushing boundaries in our future endeavors.
 
-##Future Enhancements
+## Future Enhancements
 As we move forward, we aim to enhance the system with the following features:
 
 Integration of advanced AI algorithms to improve biometric recognition accuracy.
@@ -52,7 +52,7 @@ Repository Structure
 How to Contribute
 We welcome contributions and suggestions to improve the Security Door Locking and Alerting System. If you have any ideas, bug fixes, or enhancements, feel free to open an issue or submit a pull request.
 
-##Acknowledgments
+## Acknowledgments
 We would like to express our gratitude to our incredible advisors and supporters:
 Mr. BH Sudantha (Dean of the Faculty of IT) for his guidance,
 Prof. Asoka Karunananda,
