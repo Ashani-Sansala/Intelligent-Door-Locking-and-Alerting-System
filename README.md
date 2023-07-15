@@ -7,7 +7,7 @@
 ![aa625815-398a-4ad2-aeb8-3a857ff47b13](https://github.com/Ashani-Sansala/Intelligent-Door-Locking-and-Alerting-System/assets/85635476/052d4fc8-8ea5-467d-b293-60a157853b08)
 
 ## Introduction
-The Security Door Locking and Alerting System is a cutting-edge hardware project developed as part of our first-year engineering program. This project aims to provide secure access control to sensitive areas, specifically tailored for a bank vault. The system combines advanced biometric authentication techniques with intelligent automation to ensure foolproof security.
+The Security Door Locking and Alerting System is a cutting-edge hardware project developed as part of our first-year hardware project. This project aims to provide secure access control to sensitive areas, specifically tailored for a bank vault. The system combines advanced biometric authentication techniques with intelligent automation to ensure foolproof security.
 
 ## Features
 Biometric Authentication: The system utilizes both fingerprint and face recognition to authenticate authorized personnel. Access to the vault is only granted when three designated personnel (bank manager, vault officer, and security officers) are successfully authenticated.
